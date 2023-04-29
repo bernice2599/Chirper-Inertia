@@ -12,7 +12,7 @@
 ## Installation
 
 ```
-git clone https://github.com/bernice2599/Chirper-Blade.git
+git clone https://github.com/bernice2599/Chirper-Inertia.git
 install composer
 php artisan serve
 composer require laravel/breeze --dev or php artisan breeze:install vue
